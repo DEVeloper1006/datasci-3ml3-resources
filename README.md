@@ -10,4 +10,4 @@ This repository contains resources for the course **DATASCI 3ML3: Machine Learni
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/DEVeloper1006/compsci-3ml3-resources.git
+   git clone https://github.com/DEVeloper1006/datasci-3ml3-resources.git
