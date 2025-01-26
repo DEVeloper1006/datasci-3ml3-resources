@@ -6,6 +6,7 @@ This repository contains resources for the course **DATASCI 3ML3: Machine Learni
 - `notes/`: Lecture notes and summaries.
 - `slides/`: Lecture slides from the course.
 - `textbook/`: Textbook and reading material.
+- `homeworks/` : Homework Exercises completed.
 
 ## How to Use
 1. Clone this repository:
